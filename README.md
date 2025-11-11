@@ -1,5 +1,5 @@
 # About Me
-🔭 Currently honing my skills in Data Engineering and GenAI..<br>👯 I’m looking to collaborate on projects involving data analytics, visualization, or building scalable data infrastructure.<br>🤝 I’m looking for help with best practices in cloud-based data engineering, data orchestration tools, and real-world case studies.<br>🌱 I’m currently learning SQL optimization, Python, and exploring GenAI .<br>⚡ Fun fact: I genuinely enjoy cleaning and structuring messy datasets—it’s like solving a puzzle that tells a story in the end!
+🔭 Currently honing my skills in Data Engineering and GenAI.<br>👯 I’m looking to collaborate on projects involving data analytics, visualization, or building scalable data infrastructure.<br>🤝 I’m looking for help with best practices in cloud-based data engineering, data orchestration tools, and real-world case studies.<br>🌱 I’m currently learning SQL optimization, Python, and exploring GenAI .<br>⚡ Fun fact: I genuinely enjoy cleaning and structuring messy datasets—it’s like solving a puzzle that tells a story in the end!
 
 
 ## Socials
